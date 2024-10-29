@@ -9,8 +9,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: rgba(32, 28, 28, 0.933);
+  background: rgba(32, 28, 28, 0.933);
   font-size: 1rem;
+  transition: background 500ms linear;
 }
 
 .container {
